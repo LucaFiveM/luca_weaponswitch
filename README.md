@@ -1,6 +1,7 @@
 # luca_weaponswitch
 Weapon Switch System für Fivem wie auf RageMP
-https://www.youtube.com/watch?v=QyACKC_5X3o
+
+Weapons Switch System for FiveM like RageMP
 
 Installation:
 
