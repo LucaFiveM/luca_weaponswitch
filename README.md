@@ -6,5 +6,5 @@ Weapons Switch System for FiveM like RageMP
 Installation:
 
 Go on my discord.
-Discord: https://discord.gg/8ZbdAZV756
+Discord: https://discord.gg/8ZbdAZV756 
 Preview: https://www.youtube.com/watch?v=QyACKC_5X3o
