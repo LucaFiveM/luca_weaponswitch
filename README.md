@@ -1,4 +1,6 @@
 # luca_weaponswitch
+
+50% SALE WITH CODE GITHUB50
 Weapon Switch System für Fivem wie auf RageMP
 
 Weapons Switch System for FiveM like RageMP
